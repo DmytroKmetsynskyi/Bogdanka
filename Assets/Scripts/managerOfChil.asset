@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ca9406b8f1228b2c89e2d13656c8d18, type: 3}
+  m_Name: managerOfChil
+  m_EditorClassIdentifier: 
+  speedOfChil: 10
+  accelerationSpeedOfChil: 10
+  rotationSpeedOfChil: 3.2
+  sizeOfChil: {x: 0, y: 0, z: 0}
+  massOfChil: 1
+  isLinearMoveOfChil: 0
